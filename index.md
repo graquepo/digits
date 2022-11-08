@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/graquepo/digits/main/app/public/images/real-landing.JPG?token=GHSAT0AAAAAABYV46NGUYYT3KNVQIWNQHHIY3J5OJQ)
+![](https://raw.githubusercontent.com/graquepo/digits/main/doc/real-landing.JPG?token=GHSAT0AAAAAABYV46NGKQPZ2G22BAXCSNKQY3J6HLA)
 
 ## Installation
 
@@ -78,20 +78,20 @@ The next step is to use the Login menu to either Login to an existing account or
 
 Clicking on the Login link, then on the Sign In menu item displays this page:
 
-![](https://raw.githubusercontent.com/graquepo/digits/main/app/public/images/login-page.JPG?token=GHSAT0AAAAAABYV46NHE2LZUP3QMPIP6MFQY3J5KBA)
+![](https://raw.githubusercontent.com/graquepo/digits/main/doc/login-page.JPG?token=GHSAT0AAAAAABYV46NH6GZWHEMW2ASOKKXKY3J6QWA)
 
 #### Register page
 
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
 
-![](https://raw.githubusercontent.com/graquepo/digits/main/app/public/images/register-page.JPG?token=GHSAT0AAAAAABYV46NHDGQFQE5JLDA3TFS4Y3J5L7Q)
+![](https://raw.githubusercontent.com/graquepo/digits/main/doc/register-page.JPG?token=GHSAT0AAAAAABYV46NHQTV6IPPTLTUZGPMGY3J6HZQ)
 
 
 #### Landing (after Login) page, non-Admin user
 
 Once you log in (either to an existing account or by creating a new one), the navbar changes as follows:
 
-![](https://raw.githubusercontent.com/graquepo/digits/main/app/public/images/landing-page-john.JPG?token=GHSAT0AAAAAABYV46NG4FWT23PHTY4GCZPKY3J5PHQ)
+![](https://raw.githubusercontent.com/graquepo/digits/main/doc/landing-page-john.JPG?token=GHSAT0AAAAAABYV46NHLWTUYXI7VSEYO66AY3J6M2Q)
 
 You can now add new Contacts documents, and list the Contacts you have created. Note you cannot see any Contacts created by other users.
 
@@ -99,13 +99,13 @@ You can now add new Contacts documents, and list the Contacts you have created. 
 
 After logging in, here is the page that allows you to add new Contacts:
 
-![](https://raw.githubusercontent.com/graquepo/digits/main/app/public/images/add-contact.JPG?token=GHSAT0AAAAAABYV46NGC4OTUF77JMHUQUDIY3J5SGA)
+![](https://raw.githubusercontent.com/graquepo/digits/main/doc/add-contact.JPG?token=GHSAT0AAAAAABYV46NHGT63GQ3NN6BLPSUMY3J6IIQ)
 
 #### List Contacts page
 
 After logging in, here is the page that allows you to list all the Contacts you have created:
 
-![](https://raw.githubusercontent.com/graquepo/digits/main/app/public/images/list-contacts.JPG?token=GHSAT0AAAAAABYV46NGKY4LHNHMKBOZRNTEY3J5SFA)
+![](https://raw.githubusercontent.com/graquepo/digits/main/doc/list-contacts.JPG?token=GHSAT0AAAAAABYV46NH4KHSEKGE6AEVY3UWY3J6QMA)
 
 You click the "Edit" link to go to the Edit Contacts page, shown next.
 
@@ -113,19 +113,19 @@ You click the "Edit" link to go to the Edit Contacts page, shown next.
 
 After clicking on the "Edit" link associated with an item, this page displays that allows you to change and save it:
 
-![](https://raw.githubusercontent.com/graquepo/digits/main/app/public/images/edit-contacts.JPG?token=GHSAT0AAAAAABYV46NHR356EI2F7E5OMVA4Y3J5W5Q)
+![](https://raw.githubusercontent.com/graquepo/digits/main/doc/edit-contacts.JPG?token=GHSAT0AAAAAABYV46NHCUFGXPZP3PLOT762Y3J6MAA)
 
 #### Landing (after Login), Admin user
 
 You can define an "admin" user in the settings.json file. This user, after logging in, gets a special entry in the navbar:
 
-![](https://raw.githubusercontent.com/graquepo/digits/main/app/public/images/admin-landing.JPG?token=GHSAT0AAAAAABYV46NH5HE2XMJ7CY4HP2A2Y3J53DA)
+![](https://raw.githubusercontent.com/graquepo/digits/main/doc/landing-page.JPG?token=GHSAT0AAAAAABYV46NHL4J47VMQGVEA7HRSY3J6QAA)
 
-#### Admin page (list all users stuff)
+#### Admin page (list all users contacts)
 
 To provide a simple example of a "super power" for Admin users, the Admin page lists all of the Stuff by all of the users:
 
-![](https://raw.githubusercontent.com/graquepo/digits/main/app/public/images/admin-page.JPG?token=GHSAT0AAAAAABYV46NGL35YJUXQPIWMWPG2Y3J53CA)
+![](https://raw.githubusercontent.com/graquepo/digits/main/doc/admin-page.JPG?token=GHSAT0AAAAAABYV46NHLUDZMVKIDQJ7CQTIY3J6I6Q)
 
 Note that non-admin users cannot get to this page, even if they type in the URL by hand.
 
