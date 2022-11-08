@@ -1,5 +1,4 @@
-![](https://raw.githubusercontent.com/graquepo/digits/main/doc/real-landing.JPG?token=GHSAT0AAAAAABYV46NGKQPZ2G22BAXCSNKQY3J6HLA)
-
+<img src="doc/real-landing.JPG">
 ## Installation
 
 First, [install Meteor](https://www.meteor.com/install).
@@ -70,7 +69,7 @@ The following sections describe the major features of this template.
 
 When you retrieve the app at http://localhost:3000, this is what should be displayed:
 
-![](https://raw.githubusercontent.com/graquepo/digits/main/app/public/images/real-landing.JPG?token=GHSAT0AAAAAABYV46NGUYYT3KNVQIWNQHHIY3J5OJQ)
+<img src="doc/real-landing.JPG">
 
 The next step is to use the Login menu to either Login to an existing account or register a new account.
 
